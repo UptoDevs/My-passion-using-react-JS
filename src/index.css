@@ -1,0 +1,16 @@
+.bg-bg{
+  background-color: rgba();
+}
+h5, p, span{
+  color: #fff;
+}
+img{
+  height: 740px;
+  width: 680px;
+}
+.img-size{
+border-radius: 50%;
+height: 3rem;
+width: 4rem;
+
+}
